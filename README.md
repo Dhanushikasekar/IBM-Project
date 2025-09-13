@@ -10,3 +10,10 @@ Screenshot of google colab:
 
 Demo Link:
 https://colab.research.google.com/drive/1xj_MmpNJsG3jbWXgd72klU6Axp0YGGnC?usp=sharing
+
+Project Document:
+https://drive.google.com/file/d/1ekBSScpIYHncPLQD5aQ0AqcAqCsLyngX/view?usp=drive_link
+
+Project Video Link:
+https://drive.google.com/file/d/1romRM5fSQjFdeQd0dXtvaC_N5XEfW_0a/view?usp=drivesdk
+
